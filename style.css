@@ -1,0 +1,64 @@
+body {
+	margin: 0px;
+	background-image: url("background.jpg");
+	min-height: 400px;
+	min-width: 300px;
+	background-position: center;
+    background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+/*@media only screen and (max-device-width: 1366px) {
+  body {
+    background-attachment: scroll;*/
+}
+
+#b1 {
+	text-align: center;
+	color: white;
+	margin: 270px;
+	margin-left: 480px;
+	margin-right: 480px;
+	padding: 6px;
+	background-color: rgba(10, 0, 0, 60%);
+}
+
+#b2 {
+	background-color: white;
+	text-align: center;
+	color: brown;
+	padding: 80px;
+}
+
+#b3 {
+	text-align: center;
+	color: white;
+	padding: 270px;
+}
+
+#b4 {
+	background-color: black;
+	text-align: center;
+	color: white;
+	padding: 80px;
+}
+
+#b5 {
+	text-align: center;
+	color: white;
+	margin: 270px;
+	margin-left: 480px;
+	margin-right: 480px;
+	padding: 6px;
+	background-color: rgba(10, 0, 0, 60%);
+}
+
+
+
+
+
+
+
+
+
